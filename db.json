@@ -4,27 +4,27 @@
   { "id":1,"firstName":"John", "lastName":"Doe","address":"pune","contact":123456 },
   { "id":1,"firstName":"John", "lastName":"Doe","address":"pune","contact":123456 },
   { "id":1,"firstName":"John", "lastName":"Doe","address":"pune","contact":123456 },
-  { "id":1,"firstName":"John", "lastName":"Doe","address":"pune","contact":123456 },
+  { "id":1,"firstName":"John", "lastName":"Doe","address":"pune","contact":123456 }
   ],
  "Painter":[
   { "id":1,"firstName":"John", "lastName":"Doe","address":"pune","contact":123456 },
   { "id":1,"firstName":"John", "lastName":"Doe","address":"pune","contact":123456 },
   { "id":1,"firstName":"John", "lastName":"Doe","address":"pune","contact":123456 },
   { "id":1,"firstName":"John", "lastName":"Doe","address":"pune","contact":123456 },
-  { "id":1,"firstName":"John", "lastName":"Doe","address":"pune","contact":123456 },
+  { "id":1,"firstName":"John", "lastName":"Doe","address":"pune","contact":123456 }
   ], 
   "Maid":[
   { "id":1,"firstName":"John", "lastName":"Doe","address":"pune","contact":123456 },
   { "id":1,"firstName":"John", "lastName":"Doe","address":"pune","contact":123456 },
   { "id":1,"firstName":"John", "lastName":"Doe","address":"pune","contact":123456 },
   { "id":1,"firstName":"John", "lastName":"Doe","address":"pune","contact":123456 },
-  { "id":1,"firstName":"John", "lastName":"Doe","address":"pune","contact":123456 },
+  { "id":1,"firstName":"John", "lastName":"Doe","address":"pune","contact":123456 }
   ],
   "Electrician":[
   { "id":1,"firstName":"John", "lastName":"Doe","address":"pune","contact":123456 },
   { "id":1,"firstName":"John", "lastName":"Doe","address":"pune","contact":123456 },
   { "id":1,"firstName":"John", "lastName":"Doe","address":"pune","contact":123456 },
   { "id":1,"firstName":"John", "lastName":"Doe","address":"pune","contact":123456 },
-  { "id":1,"firstName":"John", "lastName":"Doe","address":"pune","contact":123456 },
+  { "id":1,"firstName":"John", "lastName":"Doe","address":"pune","contact":123456 }
   ]
 }
