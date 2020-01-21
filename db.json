@@ -2,7 +2,7 @@
   {
     "id": 11,
     "name": "Plumber",
-	 
+	"imageurl": "pipe.jpg",
     "list" : [
 	 { "id":1,"firstName":"John", "lastName":"Doe","address":"pune","contact":123456 },
  	 { "id":2,"firstName":"John", "lastName":"Derr","address":"pune","contact":123456 },
@@ -15,7 +15,7 @@
   {
     "id": 12,
     "name": "Maid",
-	 "imageurl": "pipe.jpg"
+	 "imageurl": "pipe.jpg",
 	"list" : [
 	 { "id":1,"firstName":"John", "lastName":"Doe","address":"pune","contact":123456 },
  	 { "id":2,"firstName":"John", "lastName":"Derr","address":"pune","contact":123456 },
@@ -30,7 +30,7 @@
   {
     "id": 13,
     "name": "Painter",
-	 "imageurl": "pipe.jpg"
+	 "imageurl": "pipe.jpg",
    "list" : [
 	  { "id":1,"firstName":"John", "lastName":"Doe","address":"pune","contact":123456 },
  	 { "id":2,"firstName":"John", "lastName":"Derr","address":"pune","contact":123456 },
@@ -43,7 +43,7 @@
   {
     "id": 14,
     "name": "Electrician",
-	 "imageurl": "pipe.jpg"
+	 "imageurl": "pipe.jpg",
     "list" : [
 	 { "id":1,"firstName":"John", "lastName":"Doe","address":"pune","contact":123456 },
  	 { "id":2,"firstName":"John", "lastName":"Derr","address":"pune","contact":123456 },
